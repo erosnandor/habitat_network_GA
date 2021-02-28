@@ -1,3 +1,7 @@
+# THIS IS THE MAIN PYTHON FILE OF HABITAT CREATION OPTIMIZATION (NUMERICAL) EXPERIMENT
+# Authors: Erős Nándor, Botos Barbara, Kovács Levente, Bajkó Péter
+# Author for correspondence: Erős Nándor, e-mail: erosnandi@gmail.com
+
 from src import HabitatCreation as GA
 from src import NetworkRobustness as NR
 
